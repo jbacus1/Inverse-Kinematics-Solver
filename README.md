@@ -59,7 +59,11 @@ This project was developed as a part of the Dartmouth CS70 curriculum, Winter 20
 
 ## Enjoy!
 
-Test it out with the provided live demos and observe the fascinating behavior of inverse kinematics in action.
+Test it out with the provided live demos and observe :)
+
+![ik_demo_4_segment](./ik_demo_4_segment.png)
+![ik_demo_30_segment](./ik_demo_30_segment.png)
+
 
 ---
 
