@@ -17,7 +17,7 @@ This project is an inverse kinematics (IK) solver that computes the joint angles
 ### Interactive Demo
 
 - **Visual Interface (****`ik_demo`****)**: Allows users to interact with a chain of joints through drag-and-drop mechanics. Users can set a target position and observe the chain adjust in real time to reach the target.
-- **Scalability**: Demonstrates chains with different numbers of segments (e.g., 4 segments and 30 segments). Performance varies with chain complexity.
+- **Scalability**: Demonstrates chains with different numbers of segments (Performance varies with chain complexity).
 
 ---
 
@@ -53,17 +53,15 @@ To ensure proper execution of the code, use the provided `.yml` file in the repo
 
 ## Acknowledgments
 
-This project was developed as a part of the Dartmouth CS70 curriculum, Winter 2024.
+This project was developed as a part of the Dartmouth CS70 curriculum, Fall 2024.
 
 ---
 
 ## Enjoy!
 
-Test it out with the provided live demos and observe :)
+Test it out with the provided live demos and observe the chain adjust to your wishes :)
 
 ![ik_demo_4_segment](./ik_demo_4_segment.png)
-![ik_demo_30_segment](./ik_demo_30_segment.png)
-
 
 ---
 
